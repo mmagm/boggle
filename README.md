@@ -1,7 +1,7 @@
 # Boggle
 
 ## Словарь
-https://gist.github.com/ethylamide/e3016d78be52a709533210470b90a059
+https://gist.github.com/mmagm/e3016d78be52a709533210470b90a059
 
 ## Игровое поле
 
